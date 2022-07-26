@@ -11,4 +11,4 @@ The Rock_download.sh file: Download and make the Rockstar halo finder and consis
  4. Run sh Rock_download.sh
  5. cd rockstar-galaxies and run Rock.sh
  6. cd consistent-trees and run (perl do_merger_tree.pl  <path/to/merger_tree.cfg>)
- 7. Email me if the run stop with the unknown reason or the rockstar do not start (raouf@kasi.re.kr)
+ 7. Email me if the run stop with the unknown reason or the rockstar do not start (mojtaba.raouf@gmail.com)
